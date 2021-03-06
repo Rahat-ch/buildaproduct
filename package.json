@@ -1,0 +1,20 @@
+{
+    "name": "buildaproduct.dev",
+    "author": "Rahat Chowdhury",
+    "description": "The Landing page for the Build a Product become a developer ebook.",
+    "scripts": {
+        "dev": "next",
+        "build": "next build",
+        "start": "next start"
+    },
+    "dependencies": {
+        "next": "^10.0.8",
+        "react": "^17.0.1",
+        "react-dom": "^17.0.1"
+    },
+    "devDependencies": {
+        "autoprefixer": "^10.2.5",
+        "postcss": "^8.2.7",
+        "tailwindcss": "^2.0.3"
+    }
+}
